@@ -1,4 +1,4 @@
-# Slave module
+# Device module
 
 The slave module consists of a magnetic reed sensor and an ESP32 module.
 The ESP32 module is mainly in sleep mode and wakes up whenever it receives an open door
